@@ -6,7 +6,6 @@
  
 <?php
 require('includs/sidenavigation.php');
-echo 'Welcome to Ads page';
 
 ?>
 </body>

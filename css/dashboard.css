@@ -1,0 +1,26 @@
+table{
+  width: 100%;
+  font-size: 40px;
+
+}
+table tr th {
+padding: 37px;
+
+
+}
+
+.title {
+font-size: 25px;
+/* padding: 0px;
+margin :0px */
+}
+.count {
+font-size: 19px;
+color : #924033;
+}
+i {
+color : #ff2222;
+}
+  
+
+/* width: 100%; */
